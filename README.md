@@ -1,7 +1,7 @@
-# 🌀 Aztec Validator Migration Guide (v2.1.2)
+# 🌀 Aztec Validator Upgrade Guide (v2.1.2)
 
 A simple guide to migrate your Aztec Validator node to the latest **v2.1.2** release.  
-Special thanks to [@web3hendrix](https://twitter.com/web3hendrix) and [@lordy2220](https://twitter.com/lordy2220) for making this process simpler ❤️
+Special thanks to [@web3hendrix](https://twitter.com/web3hendrix) and [@lordy2220](https://github.com/Zickoo109) for making this process simpler ❤️
 
 ---
 

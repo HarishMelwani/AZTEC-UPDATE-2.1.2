@@ -48,7 +48,6 @@ source ~/.bashrc
 ```bash
 foundryup
 ```
-```
 
 
 ## 🧠 Step 4: Generate New Validator Keys  

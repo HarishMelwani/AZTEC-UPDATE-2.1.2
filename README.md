@@ -50,12 +50,12 @@ foundryup
 ```
 ```
 
----
 
 ## 🧠 Step 4: Generate New Validator Keys  
 *(Special thanks to [@web3hendrix](https://twitter.com/web3hendrix))*
 
 Create and run this script:
+
 
 ```bash
 #!/bin/bash

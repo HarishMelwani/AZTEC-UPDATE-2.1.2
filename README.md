@@ -28,6 +28,9 @@ echo 'export PATH="$HOME/.aztec/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
+```bash
+aztec-up
+```
 ---
 
 ## 🔧 Step 3: Install Foundry
@@ -40,7 +43,11 @@ Then reload your environment and update Foundry:
 
 ```bash
 source ~/.bashrc
+```
+
+```bash
 foundryup
+```
 ```
 
 ---
@@ -93,6 +100,9 @@ echo "All done! u have successfully joined the new testnet now rerun your node w
 
 ```bash
 cd aztec
+```
+
+```bash
 nano .env
 ```
 
